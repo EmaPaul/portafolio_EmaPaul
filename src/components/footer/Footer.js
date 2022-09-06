@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="footer">
         <div className="footer-info">
-            <h1>Emmanuel Paul Carrilo Carpio</h1>
+            <h1>Emmanuel Paul Carrillo Carpio</h1>
             <p>Arequipa - Perú 🔴⚪🔴</p>
         </div>
         <div className="footer-contact">
@@ -13,7 +13,7 @@ const Footer = () => {
         </div>
         <div className="footer-sns">
             <div className="design-by">
-                Diseñado por Emmanuel Paul Carrilo Carpio
+                Diseñado por Emmanuel Paul Carrillo Carpio
             </div>
             <div className="sns-links">
                 <a href="https://www.linkedin.com/in/emmanuel-pa%C3%BAl-carrillo-carpio/" target="_blank" rel="noreferrer">
