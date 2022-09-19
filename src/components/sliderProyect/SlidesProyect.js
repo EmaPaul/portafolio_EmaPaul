@@ -31,6 +31,12 @@ const SlidesInfoProyects=[
         alt:"Tarjeta",
         desc:"Tarjeta",
         ub:"https://github.com/EmaPaul/Tarjeta-02"
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1663607379/proyectos/Captura_de_pantalla_2022-09-19_120926_kro9a0.png",
+        alt:"bsale-Tienda",
+        desc:"bsale-Tienda",
+        ub:"https://frontend-bsale-plum.vercel.app/"
     }
 ]
 
