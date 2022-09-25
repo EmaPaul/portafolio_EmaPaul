@@ -9,7 +9,7 @@ const SlidesInfoProyects=[
         ub:"https://manga-coffee.vercel.app/"
     },
     {
-        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1664144347/proyect/pi_food_w0izjc.png",
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1662341521/proyectos/pi-food_captura_2_ksrrak.png",
         alt:"Pi-Food",
         desc:"Pi-Food",
         ub:"https://github.com/EmaPaul/Pi-Food"
