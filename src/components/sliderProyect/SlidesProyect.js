@@ -37,6 +37,12 @@ const SlidesInfoProyects=[
         alt:"bsale-Tienda",
         desc:"bsale-Tienda",
         ub:"https://frontend-bsale-plum.vercel.app/"
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1664139628/proyectos/imagen_weatherApp_pgiyxr.png",
+        alt:"WeatherApp",
+        desc:"WeatherApp",
+        ub:"https://weather-app-kdqx.vercel.app/"
     }
 ]
 
