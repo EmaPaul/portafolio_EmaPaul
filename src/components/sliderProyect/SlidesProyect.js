@@ -3,7 +3,7 @@ import './SliderProyect.css';
 
 const SlidesInfoProyects=[
     {
-        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1662342709/proyectos/manga-coff_mixsf9.png",
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1664142759/proyectos/imagen_32_p7m0bj.png",
         alt:"Manga-Coffee",
         desc:"Manga-Coffee",
         ub:"https://manga-coffee.vercel.app/"
