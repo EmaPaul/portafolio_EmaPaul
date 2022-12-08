@@ -58,9 +58,9 @@ const slidesInfoSkills =[
    },
 
    {
-    src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1662331679/skils_img/Sql_recortada_phbbdb.png",
-    alt:"Sql",
-    desc:"Sql"
+    src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1669703749/skills/icons8-postgresql-415_f2fasl.png",
+    alt:"Postgresql",
+    desc:"Postgresql"
    },
 
    {

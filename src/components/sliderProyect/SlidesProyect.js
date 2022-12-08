@@ -49,6 +49,18 @@ const SlidesInfoProyects=[
         alt:"Bsale-Store",
         desc:"Bsale-Store",
         ub:"https://front-bsale-emapaul.vercel.app/"
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1670474655/proyectos/emapelis2_ybgm9b.png",
+        alt:"EmaPelis",
+        desc:"EmaPelis",
+        ub:"https://moviesweb-topaz.vercel.app/"
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1670475365/proyectos/elisa4_vy1adx.png",
+        alt:"Portafolio Elisa",
+        desc:"Portafolio Elisa",
+        ub:"https://portafolio-elisa-tejada.vercel.app/"
     }
 ]
 
