@@ -61,7 +61,14 @@ const SlidesInfoProyects=[
         alt:"Portafolio Elisa",
         desc:"Portafolio Elisa",
         ub:"https://portafolio-elisa-tejada.vercel.app/"
-    }
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1672276540/Products_image/producto2_iodzgk.jpg",
+        alt:"Api Products Graphql",
+        desc:"Api Products Graphql",
+        ub:"https://base-datos-productos.vercel.app/graphql"
+    },
+
 ]
 
 const SlidesProyects = SlidesInfoProyects.map(slides=>(
