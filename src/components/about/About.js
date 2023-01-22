@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css';
+import cv from "../cv/Emmanuel Paul Carrillo Carpio CV.pdf"
 
 const About = () => {
   return (
@@ -11,6 +12,9 @@ const About = () => {
                 CSS,Javascript, React, Redux, Node.js, Express, Postgres SQL, Sequelize, Python, y Typescript. Con pensamiento creativo,
                 resolución de problemas, trabajo en equipo, comunicación y autonomía.
             </p>
+            <div className='btn-container'>
+                <a href={cv} download="Emmanuel Paul Carrillo Carpio CV.pdf"><button className='button-27'>Descargar CV</button></a>
+            </div>
         </div>
         <div className="about-img">
             <img className="img-bordes" src="https://res.cloudinary.com/dltjb3yhc/image/upload/v1662318823/imagen%20de%20portafolio/imagen_recortada_dnzb5h.jpg" alt="about"/>
