@@ -68,6 +68,12 @@ const SlidesInfoProyects=[
         desc:"Api Products Graphql",
         ub:"https://base-datos-productos.vercel.app/graphql"
     },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1674427217/proyectos/generador_de_contrase%C3%B1as_xciq2c.png",
+        alt:"Generador de contraseñas",
+        desc:"Generador de contraseñas",
+        ub:"https://password-generator-ema-paul.vercel.app/"
+    },
 
 ]
 
