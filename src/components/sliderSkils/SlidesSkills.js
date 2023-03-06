@@ -69,6 +69,11 @@ const slidesInfoSkills =[
     desc:"Python"
    },
 
+   {
+    src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1678112564/skills/file_type_mongo_icon_130383_xos9g3.png",
+    alt:"Mongo db",
+    desc:"Mongo db"
+   }
 ]
 
 
