@@ -74,6 +74,12 @@ const SlidesInfoProyects=[
         desc:"Generador de contraseñas",
         ub:"https://password-generator-ema-paul.vercel.app/"
     },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1678127345/proyectos/imagen_api_gjt99o.png",
+        alt:"Api rest Appointment",
+        desc:"Api rest Appointment",
+        ub:"https://appointment-production-ee4a.up.railway.app/"
+    },
 
 ]
 
