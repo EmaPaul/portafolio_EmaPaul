@@ -78,8 +78,14 @@ const SlidesInfoProyects=[
         src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1678127345/proyectos/imagen_api_gjt99o.png",
         alt:"Api rest Appointment",
         desc:"Api rest Appointment",
-        ub:"https://appointment-production-ee4a.up.railway.app/"
+        ub:"https://github.com/No-Country/C9-G21"
     },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1683042851/proyectos/edu_web_coiyqg.png",
+        alt:"Edu Web",
+        desc:"Edu Web",
+        ub:"https://github.com/No-Country/S7-22-T-NodeReact"   
+    }
 
 ]
 
