@@ -7,7 +7,7 @@ import Info from './components/info/Info';
 import Navbar from './components/navbar/Navbar';
 import SliderProyect from './components/sliderProyect/SliderProyect';
 import SliderSkils from './components/sliderSkils/SliderSkils';
-
+// estuve aqui!!
 function App() {
   const [scrollHeight,setScrollheight] = useState(0);
 
