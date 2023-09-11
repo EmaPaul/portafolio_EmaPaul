@@ -85,6 +85,13 @@ const SlidesInfoProyects=[
         alt:"Edu Web",
         desc:"Edu Web",
         ub:"https://github.com/No-Country/S7-22-T-NodeReact"   
+    },
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1694443763/cripto-mar_ihkrcv.png",
+        alt:"Cripto Market",
+        desc:"Cripto Market",
+        ub:"https://github.com/EmaPaul/cripto-market"   
+
     }
 
 ]
