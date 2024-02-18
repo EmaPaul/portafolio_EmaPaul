@@ -92,6 +92,12 @@ const SlidesInfoProyects=[
         desc:"Cripto Market",
         ub:"https://github.com/EmaPaul/cripto-market"   
 
+    },    
+    {
+        src:"https://res.cloudinary.com/dltjb3yhc/image/upload/v1708298747/img_portafolio_2_fw4jao.png",
+        alt:"Little Lemon",
+        desc:"Little Lemon",
+        ub:"https://github.com/EmaPaul/django-littlelemon"   
     }
 
 ]
